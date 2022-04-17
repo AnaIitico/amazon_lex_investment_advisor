@@ -55,7 +55,7 @@ This is an Amazon AWS Robo Advisor application that provides investment portfoli
 <!-- This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps. -->
 * Read through the AWS documentation for setting up AWS Lex and Lambda
 
-* You can watch the videos also to see the settings for the Bot and the dialog scripts. The videos can also walk you trough how to query the Bot.
+* You can watch the videos also to see the settings for the Bot and the dialog scripts. The videos can also walk you through how to query the Bot. The demo videos are located in the [resources](https://github.com/AnaIitico/amazon_lex_investment_advisor/tree/main/resources) folder
 
 * You will need to follow AWS instructions on how to set up a Lex Bot for a Confirmation Prompt demo and then for a Lambda Function Demo.
 
@@ -90,6 +90,8 @@ A text editor such as [VS Code](https://code.visualstudio.com/) or [Sublime Text
 
 5. Watch the video for the Lambda Function Demo
    * [Issue #2 Lambda Function Demo Video](https://github.com/AnaIitico/amazon_lex_investment_advisor/issues/2#issue-1206473970)
+
+6. The demo videos are also located in the [resources](https://github.com/AnaIitico/amazon_lex_investment_advisor/tree/main/resources) folder
 
 
 <!-- USAGE EXAMPLES -->
