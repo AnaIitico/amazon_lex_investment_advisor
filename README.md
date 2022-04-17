@@ -85,11 +85,11 @@ A text editor such as [VS Code](https://code.visualstudio.com/) or [Sublime Text
    https://docs.aws.amazon.com/lambda/latest/dg/foundation-console.html
    ```
 
-4. Watch the video for the Confirmation Prompt Demo
-   * The video is added as issue 1
+4. Watch the video of the Confirmation Prompt Demo
+   * [Issue #1 Confirmation Prompt Demo Video](https://github.com/AnaIitico/amazon_lex_investment_advisor/issues/1#issue-1206472218)
 
 5. Watch the video for the Lambda Function Demo
-   * The video is added as issue 2
+   * [Issue #2 Lambda Function Demo Video](https://github.com/AnaIitico/amazon_lex_investment_advisor/issues/2#issue-1206473970)
 
 
 <!-- USAGE EXAMPLES -->
